@@ -3,42 +3,49 @@
         "_id": 1,
         "name": "Buter Ban",
         "image": "https://www.pranfoods.net/sites/default/files/5_product_image_butter_bun_750x750px-min.png",
+        "brand": "All Time",
         "price": 10
     },
     {
         "_id": 2,
         "name": "Milk Bread",
         "image": "https://www.pranfoods.net/sites/default/files/field/image/5_product_image_milk_brade_350g_750x750px-min.png",
+        "brand": "All Time",
         "price": 55
     },
     {
         "_id": 3,
         "name": "Family Cake",
         "image": "https://www.pranfoods.net/sites/default/files/4_product_image_family_cake_750x750px-min.png",
+        "brand": "All Time",
         "price": 40
     },
     {
         "_id": 4,
         "name": "Honey Comb",
         "image": "https://www.pranfoods.net/sites/default/files/4_product_image_honeycomb_750x750px-min.png",
+        "brand": "All Time",
         "price": 20
     },
     {
         "_id": 6,
         "name": "Energy",
         "image": "https://islanddailyshop.com/wp-content/uploads/2021/07/242358238_1842453845940681_9128259827872113597_n.png",
+        "brand": "Olympic",
         "price": 20
     },
     {
         "_id": 7,
         "name": "Dry Cake",
         "image": "https://www.thebasketbd.com/media/catalog/product/cache/86ee1749eaf33831b62508d37b85264e/8/1/811116290298.jpg",
+        "brand": "Olympic",
         "price": 20
     },
     {
         "_id": 8,
         "name": "Tip",
         "image": "https://www.thebasketbd.com/media/catalog/product/cache/86ee1749eaf33831b62508d37b85264e/8/1/811102040258.jpg",
+        "brand": "Olympic",
         "price": 20
     }
 ]
